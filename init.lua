@@ -24,4 +24,6 @@ require("user.autoclosetag")
 --[[
 ctrl + o : tab previous
 ctrl + r : redo
+z+o: open fold
+z+c: close fold
 --]]

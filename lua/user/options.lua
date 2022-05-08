@@ -33,6 +33,7 @@ local options = {
 	wrap = true, -- display lines as one long line
 	scrolloff = 8, -- is one of my fav
 	sidescrolloff = 8,
+	foldmethod = "indent", -- https://vim.fandom.com/wiki/Folding
 }
 vim.opt.shortmess:append("c")
 
